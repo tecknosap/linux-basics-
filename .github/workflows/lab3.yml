@@ -6,7 +6,7 @@ on:
 
 jobs:
     lab_3:
-        runs-on: ubuntu-lates
+        runs-on: ubuntu-latest
         steps:
           - run: echo "2 x 2 = 4"
             
