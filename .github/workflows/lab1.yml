@@ -5,8 +5,8 @@ on:
     branches:
       - main
 
-jobs:
+jobs: # jobs for the project
   lab1:
     runs-on: ubuntu-lates
     steps:
-           - run: echo "This is my first workflow!"
+           - run: echo "This is my first workflow!" 
