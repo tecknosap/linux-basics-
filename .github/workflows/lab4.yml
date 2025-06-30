@@ -12,5 +12,5 @@ jobs:
       - name: Print 5 times table
         run: |
           for i in {1..10}; do
-            echo "5 x $i = $((5 * i))"
+            echo "1 x $i = $((1 * i))"
           done
